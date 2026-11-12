@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses 2 inputs and an AND gate to control an LED.
 
 ## How to test
 
-Explain how to use your project
+Change the 2 inputs into 1 of 4 combinations and see how they affect the LED.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware required.
